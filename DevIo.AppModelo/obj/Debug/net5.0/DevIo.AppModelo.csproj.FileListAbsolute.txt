@@ -32,3 +32,5 @@ C:\Users\marco\Desktop\CursosDesenvolvedorIO\AppModelo\DevIo.AppModelo\obj\Debug
 C:\Users\marco\Desktop\CursosDesenvolvedorIO\AppModelo\DevIo.AppModelo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\marco\Desktop\CursosDesenvolvedorIO\AppModelo\DevIo.AppModelo\obj\Debug\net5.0\DevIo.AppModelo.RazorTargetAssemblyInfo.cs
 C:\Users\marco\Desktop\CursosDesenvolvedorIO\AppModelo\DevIo.AppModelo\obj\Debug\net5.0\DevIo.AppModelo.Views.pdb
+C:\Users\marco\Desktop\CursosDesenvolvedorIO\AppModelo\DevIo.AppModelo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\marco\Desktop\CursosDesenvolvedorIO\AppModelo\DevIo.AppModelo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
