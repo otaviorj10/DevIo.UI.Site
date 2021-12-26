@@ -2,9 +2,11 @@
 <head>
     <title>@ViewData["Title"] - Minha App Modelo</title>
     <environment include="Development">
+        <link href="~/css/site.css" rel="stylesheet" />
         <link rel="stylesheet" href="~/lib/Bootstrap/css/bootstrap.css" />
-        <link rel="stylesheet" href="~/lib/font-awesome/css/font-awesome.css" />
     </environment>
+    <link rel="stylesheet" href="~/lib/font-awesome/css/font-awesome.css" />
+
     <environment excuide="Development">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css"
               app-fallback-href="~/lib/bootstrap/css/bootstrap.css"
@@ -27,6 +29,9 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="Produtos" asp-controller="Cadastro" asp-action="Index">Cadastro</a>
+                        </li>
                     </ul>
                 </div>
             </div>
@@ -41,7 +46,9 @@
     </div>
     <footer class="border-top footer text-muted">
         <div class="container">
-            Rodapé
+            Minha App Modelo - <email email-domain="gmail.com">contato</email>
+            Minha App Modelo - <email>suporte</email>
+            <a>sdsdw</a>
 
         </div>
     </footer>
@@ -54,8 +61,8 @@
                 app-fallback-src="~lib/jquery/jquert.min.js"
                 app-fallback-test-class="window.jQuert && window.jQuery.fn && window.jQuery.fn.modal"
                 crossorigin="anonymous"></script>
-
-        <link rel="stylesheet" href="~/css/site.css" />
+        <script src="~/lib/Bootstrap/js/bootstrap.js"></script>
+        <script src="~/js/site.js"></script>
         @*integrity="sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYCHqibrV7PBE="*@
     </environment>
 </body>

@@ -46,11 +46,18 @@ namespace DevIO.UI.Site
 
             app.UseAuthorization();
 
+
+           
             app.UseEndpoints(endpoints =>
             {
+                endpoints.MapControllerRoute(
+                  name: "areas",
+                  pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}"
+                );
                 endpoints.MapRazorPages();
                 endpoints.MapControllerRoute("default", "{controller=home}/{action=index}/{id?}");
             });
+
         }
     }
 }
