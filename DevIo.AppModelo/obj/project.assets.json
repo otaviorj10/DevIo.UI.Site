@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marco\\Desktop\\CursosDesenvolvedorIO\\AppModelo\\DevIo.AppModelo\\DevIo.AppModelo.csproj",
-      "projectName": "DevIo.AppModelo",
-      "projectPath": "C:\\Users\\marco\\Desktop\\CursosDesenvolvedorIO\\AppModelo\\DevIo.AppModelo\\DevIo.AppModelo.csproj",
+      "projectUniqueName": "C:\\Users\\marco\\Desktop\\CursosDesenvolvedorIO\\AppModelo\\DevIo.AppModelo\\DevIo.UI.Site.csproj",
+      "projectName": "DevIo.UI.Site",
+      "projectPath": "C:\\Users\\marco\\Desktop\\CursosDesenvolvedorIO\\AppModelo\\DevIo.AppModelo\\DevIo.UI.Site.csproj",
       "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\marco\\Desktop\\CursosDesenvolvedorIO\\AppModelo\\DevIo.AppModelo\\obj\\",
       "projectStyle": "PackageReference",
