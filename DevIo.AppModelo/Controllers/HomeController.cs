@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace DevIo.AppModelo.Controllers
+namespace DevIO.UI.Site.Controllers
 {
     public class HomeController: Controller
     {

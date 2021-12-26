@@ -10,7 +10,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace DevIo.AppModelo
+namespace DevIO.UI.Site
 {
     public class Startup
     {
@@ -39,7 +39,8 @@ namespace DevIo.AppModelo
             }
 
             app.UseHttpsRedirection();
-            app.UseStaticFiles();
+            //configuraçao que se encarrega de entregar os arquivos estaticos para o browser
+           app.UseStaticFiles();
 
             app.UseRouting();
 
