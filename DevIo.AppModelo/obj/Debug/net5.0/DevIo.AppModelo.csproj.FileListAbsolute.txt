@@ -23,3 +23,12 @@ C:\Users\marco\Desktop\CursosDesenvolvedorIO\AppModelo\DevIo.AppModelo\obj\Debug
 C:\Users\marco\Desktop\CursosDesenvolvedorIO\AppModelo\DevIo.AppModelo\obj\Debug\net5.0\DevIo.AppModelo.pdb
 C:\Users\marco\Desktop\CursosDesenvolvedorIO\AppModelo\DevIo.AppModelo\obj\Debug\net5.0\DevIo.AppModelo.genruntimeconfig.cache
 C:\Users\marco\Desktop\CursosDesenvolvedorIO\AppModelo\DevIo.AppModelo\obj\Debug\net5.0\DevIo.AppModelo.csproj.CopyComplete
+C:\Users\marco\Desktop\CursosDesenvolvedorIO\AppModelo\DevIo.AppModelo\bin\Debug\net5.0\DevIo.AppModelo.Views.pdb
+C:\Users\marco\Desktop\CursosDesenvolvedorIO\AppModelo\DevIo.AppModelo\obj\Debug\net5.0\DevIo.AppModelo.RazorAssemblyInfo.cache
+C:\Users\marco\Desktop\CursosDesenvolvedorIO\AppModelo\DevIo.AppModelo\obj\Debug\net5.0\DevIo.AppModelo.RazorAssemblyInfo.cs
+C:\Users\marco\Desktop\CursosDesenvolvedorIO\AppModelo\DevIo.AppModelo\obj\Debug\net5.0\DevIo.AppModelo.TagHelpers.input.cache
+C:\Users\marco\Desktop\CursosDesenvolvedorIO\AppModelo\DevIo.AppModelo\obj\Debug\net5.0\DevIo.AppModelo.TagHelpers.output.cache
+C:\Users\marco\Desktop\CursosDesenvolvedorIO\AppModelo\DevIo.AppModelo\obj\Debug\net5.0\DevIo.AppModelo.RazorCoreGenerate.cache
+C:\Users\marco\Desktop\CursosDesenvolvedorIO\AppModelo\DevIo.AppModelo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\marco\Desktop\CursosDesenvolvedorIO\AppModelo\DevIo.AppModelo\obj\Debug\net5.0\DevIo.AppModelo.RazorTargetAssemblyInfo.cs
+C:\Users\marco\Desktop\CursosDesenvolvedorIO\AppModelo\DevIo.AppModelo\obj\Debug\net5.0\DevIo.AppModelo.Views.pdb
