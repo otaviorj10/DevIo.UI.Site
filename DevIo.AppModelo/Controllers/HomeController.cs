@@ -9,17 +9,19 @@ namespace DevIO.UI.Site.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly IPedidoRepository _pedido;
+        //private readonly IPedidoRepository _pedido;
 
 
-        public HomeController(IPedidoRepository pedido)
+        //public HomeController(IPedidoRepository pedido)
+        //{
+        //    _pedido = pedido;
+        //}
+
+       
+
+        public IActionResult Index([FromServices] IPedidoRepository _pedido)
         {
-            _pedido = pedido;
-        }
-
-        public IActionResult Index()
-        {
-            var pedido = _pedido.ObterPedido();
+           
             return View();
         }
     }

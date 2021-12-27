@@ -1,7 +1,4 @@
 ﻿@using DevIO.UI.Site.Data
-@inject IPedidoRepository PedidoRepository
+@inject IPedidoRepository _pedido
 
-Ola!
-
-@PedidoRepository.ObterPedido().Id
-
+@_pedido.ObterPedido().Id
