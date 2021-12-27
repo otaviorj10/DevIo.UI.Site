@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using DevIO.UI.Site.Data;
+using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -6,11 +7,20 @@ using System.Threading.Tasks;
 
 namespace DevIO.UI.Site.Controllers
 {
-    public class HomeController: Controller
+    public class HomeController : Controller
     {
+        private readonly IPedidoRepository _pedido;
+
+
+        public HomeController(IPedidoRepository pedido)
+        {
+            _pedido = pedido;
+        }
+
         public IActionResult Index()
         {
+            var pedido = _pedido.ObterPedido();
             return View();
         }
-     }
+    }
 }
